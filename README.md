@@ -1,4 +1,4 @@
-## Disclaimer
+# Disclaimer
 A made this game to learn pygame. All the assets that are used in this project are for fun. My sister was struggling at memorizing numbers so I made this for her.
 # Number-Clicking-Game
 A game made with pygame that tells you which number to click. 
