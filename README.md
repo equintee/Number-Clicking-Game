@@ -4,7 +4,7 @@ A made this game to learn pygame. All the assets that are used in this project a
 A game made with pygame that tells you which number to click. 
 
 # Gameplay Video
-      <a href="https://www.youtube.com/watch?v=lAkX0xvictk">
+<a href="https://www.youtube.com/watch?v=lAkX0xvictk">
          <img alt="Qries" src="https://github.com/equintee/Number-Clicking-Game/blob/main/Gameplay.png">
       </a>
 
